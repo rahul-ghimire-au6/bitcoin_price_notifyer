@@ -5,7 +5,7 @@ Python program to get bitcoin notification
 ## Download
 ```
 Download the file from the following url :-
-https://github.com/rahul-ghimire-au6/Bitcoin-price-notofication.git
+https://github.com/rahul-ghimire-au6/bitcoin_price_notifyer
 
 (click on the "clone or download" button on your left --> download ZIP)
 ```
@@ -32,15 +32,3 @@ where "-i" is the command line argument for time interval and "-t" for minimum t
 Feel free to use argument of your choice.
 10 - seconds 
 ```
-
-## Video Guide
-
-```
-Watch this video for better understanding:
-
-Link--->
-
-```
-
-
-
